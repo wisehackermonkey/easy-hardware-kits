@@ -1,3 +1,8 @@
+// starting point for the express server
+// by oran collins
+// github.com/wisehackermonkey
+// oranbusiness@gmail.com
+// 20210224
 
 
 
