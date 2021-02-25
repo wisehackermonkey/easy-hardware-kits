@@ -1,8 +1,126 @@
 body {
-  padding: 50px;
+  margin: 0px 0px 0px 0px;
+  /* padding: 50px; */
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+/* 
+------------------------------------  
+page layout styling
+------------------------------------ 
+*/
+
+#table_gif {
+  border-style: solid;
+  border-color: black;
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 400px;
+  padding: 0px 30px 30px 30px;
+  align-content: center;
+}
+
+#table_content {
+  border-style: solid;
+  border-color: black;
+  width: 100%;
+  height: 1000px;
+  /* padding: 30px 30px 30px 30px; */
+}
+
+td {
+  padding: 10px;
+  border-style: solid;
+  border-color: red;
+  align-content: left;
+  padding: 30px 30px 30px 30px;
+}
+/* ------------------------------------ */
+
+#header_bar {
+  background-color: gray;
+  top: 0;
+  border-style: solid;
+  border-color: red;
+  height: 50px;
+  position: sticky;
+}
+
+
+
+
+/* ------------------------------------ */
+#footer_bar {
+  background-color: gray;
+  bottom: 0;
+  border-style: solid;
+  border-color: red;
+  height: 50px;
+}
+
+#gif_box {
+  
+  border-style: solid;
+  border-color: green;
+  text-align: center;
+}
+
+/* the side bar which contains all sub-page links to parts of the build */
+
+#sidebar_container {
+  border-style: solid;
+  border-color: green;
+  width: 200px;
+}
+
+#sidebar_content {
+  border-style: solid;
+  border-color: blue;
+  /* /* width: 100%; */
+  height: 100%; 
+  display: flex;
+
+}
+#side_bar_box{
+  
+}
+/* ------------------------------------ */
+
+/* controls layout of the content for the page 
+like the text and step by step instructions */
+#content_container {
+  border-style: solid;
+  border-color: green;
+  display: flex;
+
+}
+
+#content_data {
+  border-style: solid;
+  border-color: blue;
+  width: 100%;
+  /* height: 100%; */
+  align-content: stretch;
+}
+
+/* layout of page content the tutorial text and photos */
+#content_box{
+  border-style: solid;
+  border-color:hotpink;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/* 
+------------------------------------  
+Content styling
+------------------------------------ 
+*/
+
+.floating-image{
+  float: left;
+  margin-right: 10px;
 }
