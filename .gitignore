@@ -1,3 +1,8 @@
+node_modules/
+.nyc_output
+.sass-cache
+
+
 # .env file contains default environment variables for docker
 .env
 .git/
