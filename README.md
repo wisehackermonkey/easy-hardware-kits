@@ -50,12 +50,6 @@
 ```
 
 -----------------
-# Dev log
-### inital layout v1
-![](assets/2021-02-25-11-02-31.png)
-```bash
-```
------------------
 # Contributors
 
 [![](https://contrib.rocks/image?repo=wisehackermonkey/easy-hardware-kits)](https://github.com/wisehackermonkey/easy-hardware-kits/graphs/contributors)
