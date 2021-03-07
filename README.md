@@ -12,7 +12,7 @@
 |   |   |
 |----- |-----|
 | ![](assets/create-kit-mockup_v1@2x.png) | ![](assets/home-page-mockup_v1@2x.png)|
-| ![](assets\kit-page-mockup_v1@2x.png) | ![](assets\list-projects-mockup_v1@2x.png) 
+| ![](assets/kit-page-mockup_v1@2x.png) | ![](assets/list-projects-mockup_v1@2x.png) 
 
 ![](assets\WireFrame_v1.png)
 
