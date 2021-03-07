@@ -8,6 +8,14 @@
 <h4 align="center">This project is a hub for creating hardware kits using standard set of suppliers reduce complexity in creating hardware kits</h4>
 
 
+# UI Mockup Pages
+|   |   |
+|----- |-----|
+| ![](assets/create-kit-mockup_v1@2x.png) | ![](assets/home-page-mockup_v1@2x.png)|
+| ![](assets\kit-page-mockup_v1@2x.png) | ![](assets\list-projects-mockup_v1@2x.png) 
+
+![](assets\WireFrame_v1.png)
+
 # Quick start
 ### __________________
 <!-- 
