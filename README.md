@@ -5,7 +5,23 @@
 <!-- <img src="assets/NNNNNNNNNNNNN" width="400"> -->
 <h2 align="center">Make platform for making hardware electronics kits easy and consistent!</h2>
 
-<h4 align="center">This project is a hub for creating hardware kits using standard set of suppliers reduce complexity in creating hardware kits</h4>
+<h4 align="center">We are a platform for sharing  electronics/hardware kits using a standard format and suppliers that make buying and assembling a cool robotics kit a breeze.
+</h4>
+
+# Elevator pitch
+#### Have you ever tried creating a electronics project from a instructions you found online but found the process too daunting because every bolt and nut comes from random places or is unavailable? or worse yet they included the 3d printer file but its in a really weird .XYZ file format, that takes 5 hours to convert to .stl? 
+
+#### ....
+
+### Easy-hardware-kits.com is the solution!
+`We are a platform for sharing  hardware kits using a standard format and suppliers that make buying and assembling a cool robotics kit a breeze.`
+
+### We make the process really easy!
+- kit creators can only use select suppliers for parts, thus making the ordering process one click!
+- only standard formats are accepted  .stl for the win. no more .XYZ  file formats
+- if you order a kit and upload `great documentation` you get the product 80% off!
+- Similar to [Massdrop](https://drop.com/) if you order now all the kits get shipped out at the end of the month this save you money becase we can get builk rates!  
+- If you are a pay extra you can get your kit 2 week earlier!
 
 
 # UI Mockup Pages
